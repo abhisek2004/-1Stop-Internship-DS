@@ -17,8 +17,8 @@ I have completed my 1Stop Internship in Data Science! 🎉 During this self-pace
 In summary, my internship journey has equipped me with valuable skills in data analysis, machine learning, and natural language processing. These projects not only showcase my technical abilities but also highlight my contribution to solving real-world problems. I'm grateful for the experience and look forward to applying the knowledge and skills I've acquired to future endeavors.💪👨‍💻🔍👨‍💻🔍
 
 # MY PROJECT GOOGLE COLLAB LINK-
-1- https://colab.research.google.com/drive/1lhsIg9eTvj52ZNOF9UMu_pNsnVk0XO4J?usp=sharing
+1- CREDIT EDA - https://colab.research.google.com/drive/1lhsIg9eTvj52ZNOF9UMu_pNsnVk0XO4J?usp=sharing
 
-2- https://colab.research.google.com/drive/1AYpANN1itlH639aGpRmrvXejjBRbtveR?usp=sharing
+2- *Hate Speech Detection - https://colab.research.google.com/drive/1AYpANN1itlH639aGpRmrvXejjBRbtveR?usp=sharing
 
-3- https://colab.research.google.com/drive/1TxL42pgO8zwqmxksvL5by4mDKF80ZZor?usp=sharing
+3- SMS-Spam Detection - https://colab.research.google.com/drive/1TxL42pgO8zwqmxksvL5by4mDKF80ZZor?usp=sharing
