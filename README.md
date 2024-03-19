@@ -15,3 +15,8 @@ I have completed my 1Stop Internship in Data Science! 🎉 During this self-pace
    With the prevalence of spam messages inundating our mobile phones, building accurate SMS spam detection systems is essential. Your project may have involved using classification techniques to differentiate between legitimate messages and spam. Features such as message content, sender information, and frequency of messages may have been utilized to train the model. Implementing such a system helps users filter out unwanted messages, saving time and ensuring a better communication experience. 📱🛑
 
 In summary, my internship journey has equipped me with valuable skills in data analysis, machine learning, and natural language processing. These projects not only showcase my technical abilities but also highlight my contribution to solving real-world problems. I'm grateful for the experience and look forward to applying the knowledge and skills I've acquired to future endeavors.💪👨‍💻🔍👨‍💻🔍
+
+# MY PROJECT GOOGLE COLLAB LINK-
+1- https://colab.research.google.com/drive/1lhsIg9eTvj52ZNOF9UMu_pNsnVk0XO4J?usp=sharing
+2- https://colab.research.google.com/drive/1AYpANN1itlH639aGpRmrvXejjBRbtveR?usp=sharing
+3- https://colab.research.google.com/drive/1TxL42pgO8zwqmxksvL5by4mDKF80ZZor?usp=sharing
