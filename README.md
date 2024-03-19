@@ -19,6 +19,6 @@ In summary, my internship journey has equipped me with valuable skills in data a
 # MY PROJECT GOOGLE COLLAB LINK-
 1- CREDIT EDA - https://colab.research.google.com/drive/1lhsIg9eTvj52ZNOF9UMu_pNsnVk0XO4J?usp=sharing
 
-2- *Hate Speech Detection - https://colab.research.google.com/drive/1AYpANN1itlH639aGpRmrvXejjBRbtveR?usp=sharing
+2- Hate Speech Detection - https://colab.research.google.com/drive/1AYpANN1itlH639aGpRmrvXejjBRbtveR?usp=sharing
 
 3- SMS-Spam Detection - https://colab.research.google.com/drive/1TxL42pgO8zwqmxksvL5by4mDKF80ZZor?usp=sharing
