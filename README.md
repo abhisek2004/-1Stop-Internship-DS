@@ -22,3 +22,10 @@ In summary, my internship journey has equipped me with valuable skills in data a
 2- Hate Speech Detection - https://colab.research.google.com/drive/1AYpANN1itlH639aGpRmrvXejjBRbtveR?usp=sharing
 
 3- SMS-Spam Detection - https://colab.research.google.com/drive/1TxL42pgO8zwqmxksvL5by4mDKF80ZZor?usp=sharing
+
+
+![12 (1 STOP (PERSONIFWY) ) DS LETTER](https://github.com/user-attachments/assets/ac2451c0-3741-4217-9e05-0e90dc761dd2)
+![12 (1 STOP (PERSONIFWY) ) DS LETTER (2)](https://github.com/user-attachments/assets/21b7c2f9-8aa7-4d86-b8b4-6bbe1a2a52b9)
+![13 (1STOP (RAISE DIGITAL))WD Certificate Participation (1)](https://github.com/user-attachments/assets/28877cba-056d-4baf-aaa9-9cd27a12399e)
+![13 (1STOP (RAISE DIGITAL))DS Certificate project Completion (2)](https://github.com/user-attachments/assets/94627b93-cd96-4c1d-bb5e-7655e262ba6e)
+![13 (1STOP (RAISE DIGITAL))WD Certificate Participation internship (2)](https://github.com/user-attachments/assets/919fb718-8c53-4958-ba7d-c97f723be4fc)
